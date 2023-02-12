@@ -19,6 +19,7 @@ For Mac: [Install on Mac](https://redis.io/docs/getting-started/installation/ins
 `EXISTS key` check existance
 
 `KEYS *` show all keys 
+
 `flushall` delete all keys  
 
 `SET key value ex 10` set expiration time for 10 sec
@@ -29,3 +30,5 @@ For Mac: [Install on Mac](https://redis.io/docs/getting-started/installation/ins
 ## Using Redis in Node 
 
 [Redis in npm](https://www.npmjs.com/package/redis) 
+
+[Redis in nodejs](https://docs.redis.com/latest/rs/references/client_references/client_nodejs/)
